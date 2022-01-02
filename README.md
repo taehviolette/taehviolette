@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @taehviolette
+- 👋 Hi, I’m Beatriz
 - 👀 I’m interested in books, music and technology
 - 🌱 I’m currently learning programming
 - 📫 You can reach me on Twitter (@taehyviolette)
