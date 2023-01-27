@@ -4,8 +4,7 @@
 
 🔭 No momento estou estudando algumas linguagens.
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
-
+💬 "Se as pessoas com conhecimento e potencial têm medo de agir e tornar a sociedade melhor, então não há esperança."
 ----
 
 ## 🚀 Minhas Skills
