@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>{Beatriz Messias}!</strong>
+## 💜 Olá, meu nome é <strong>Beatriz Messias!</strong>
 
 > Sou uma estudante do Ensino Médio interessada em programação.
 
